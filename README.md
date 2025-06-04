@@ -54,7 +54,9 @@ Use a extensão *Live Server* no VS Code para rodar o projeto localmente
 
 📦 nome-do-projeto
 ├── index.html        ← Página principal (feita por mim com base no modelo visual)
+
 ├── style.css         ← Estilos da página (criados por mim com base no modelo visual)
+
 └── script.js         ← Lógica em JavaScript ensinada no curso
 
 🙋‍♀️ Créditos
