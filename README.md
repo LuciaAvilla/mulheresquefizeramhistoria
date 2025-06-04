@@ -38,7 +38,7 @@ Siga os passos abaixo para visualizar o projeto no seu navegador:
 
 1. **Clone o repositório:**
 
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/LuciaAvilla/mulheresquefizeramhistoria
 
 2. **Acesse a pasta do projeto:**
 
