@@ -1,0 +1,94 @@
+body {
+    text-align: center;
+    font-family: Open Sans, sans-serif;
+    background-color: #8a71c9;
+    color: #ffffff;
+    margin: 0 0 30px 0;
+    padding: 0;
+}
+
+h2 {
+    color: #2a0074;
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 22px;
+    font-style: italic;
+}
+
+h4 {
+    font-weight: 60;
+    font-size: 20px;
+    font-weight: bold
+}
+
+p {
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    margin-block-start: none;
+    margin-block-end: none;
+    line-height: 2;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #99ffff;
+    font-weight: 700;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+
+    @media (max-width: 768px) {
+        width: 100%;
+        /* Aqui vão os estilos para telas menores que 768px (ex: celular) */
+    }
+}
+
+.primary-nav {
+    background: #ff6cb5;
+    height: 40px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.primary-nav a {
+    color: #fff;
+    text-decoration: underline;
+    font-weight: normal;
+
+}
+
+.primary-nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.primary-nav li {
+    display: inline-block;
+    line-height: 2.5;
+    margin: 0 89px;
+}
+
+button {
+    background-color: #41f341;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+}
